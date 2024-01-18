@@ -23,17 +23,13 @@ Proje kapsamında, kullanıcılar atıklarını uygulama üzerinden listeleme, a
 
 Lisans ve önerilerinizle uyumlu olarak yazılı ve yapılandırılmış bir yazılım geliştirme iş teklifi veya iş planı hazırlamak için aşağıdaki kaynakları inceleyebilirsiniz:
 
-- [İş Teklifi Nasıl Yazılır: Adım Adım Rehber](https://www.canva.com/learn/how-to-write-a-business-proposal/)
-- [Yazılım Geliştirme İş Teklifi Nasıl Yazılır](https://www.invensis.net/blog/it/how-to-write-a-software-development-proposal-template/)
+
 - [Yazılım Geliştirme Şirketi İş Planı](https://www.bplans.com/software-development-business-plan/)
 - [Örnek Yazılım Geliştirme Teklif Şablonu](https://www.proposify.com/professional-software-proposal-template)
 
-## Kurulum
+## Dosya
 
-1. Bu depoyu klonlayın: `git clone https://github.com/kullanici/AltinAtik.git`
-2. Proje dizinine gidin: `cd AltinAtik`
-3. Gerekli bağımlılıkları yükleyin: `flutter pub get`
-4. Uygulamayı başlatın: `flutter run`
+- [Dosya linki](https://t.me/dystaSatriaFiles/10)
 
 ## Katkıda Bulunma
 
